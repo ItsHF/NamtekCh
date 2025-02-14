@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HF\\Desktop\\NamtekCh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\interfaces\\timesheetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\interfaces\\timesheetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\models\\employeecreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\models\\employeecreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\dbcontroller\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\dbcontroller\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|c:\\users\\hf\\desktop\\namtekch\\namtekch\\controllers\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2051453D-0D46-4195-AD09-87CBFBE8E546}|NamtekCh\\NamtekCh.csproj|solutionrelative:namtekch\\controllers\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Models\\EmployeeCreateRequest.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Models\\EmployeeCreateRequest.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Models\\EmployeeCreateRequest.cs",
+              "RelativeToolTip": "NamtekCh\\Models\\EmployeeCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:46:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITimesheetService.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Controllers\\ITimesheetService.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Controllers\\ITimesheetService.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Controllers\\ITimesheetService.cs",
+              "RelativeToolTip": "NamtekCh\\Controllers\\ITimesheetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T23:41:28.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "NamtekCh\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T23:38:39.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "NamtekCh\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T23:37:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimesheetsController.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Interfaces\\TimesheetsController.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Interfaces\\TimesheetsController.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Interfaces\\TimesheetsController.cs",
+              "RelativeToolTip": "NamtekCh\\Interfaces\\TimesheetsController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:58:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "NamtekCh\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAswDkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:56:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Program.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Program.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Program.cs",
+              "RelativeToolTip": "NamtekCh\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:56:05.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Models\\Employee.cs",
+              "RelativeToolTip": "NamtekCh\\Models\\Employee.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:54:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TimesheetService.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Services\\TimesheetService.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Services\\TimesheetService.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Services\\TimesheetService.cs",
+              "RelativeToolTip": "NamtekCh\\Services\\TimesheetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T23:41:48.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\DBController\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\DBController\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\DBController\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NamtekCh\\DBController\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:55:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Timesheet.cs",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Models\\Timesheet.cs",
+              "RelativeDocumentMoniker": "NamtekCh\\Models\\Timesheet.cs",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\Models\\Timesheet.cs",
+              "RelativeToolTip": "NamtekCh\\Models\\Timesheet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:54:54.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\appsettings.json",
+              "RelativeDocumentMoniker": "NamtekCh\\appsettings.json",
+              "ToolTip": "C:\\Users\\HF\\Desktop\\NamtekCh\\NamtekCh\\appsettings.json",
+              "RelativeToolTip": "NamtekCh\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T14:51:22.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

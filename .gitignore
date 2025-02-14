@@ -1,0 +1,8 @@
+
+*.cs
+*.cs
+NamtekCh/obj/Release/net8.0/NamtekCh.csproj.AssemblyReference.cache
+*.vsidx
+*.vsidx
+/.vs/NamtekCh/FileContentIndex
+/.vs/NamtekCh/CopilotIndices

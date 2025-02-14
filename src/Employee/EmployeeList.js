@@ -6,7 +6,7 @@ const EmployeeList = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // Fetch the list of employees
+  // Fetch the list of employeess
   useEffect(() => {
     fetch('https://localhost:7035/api/Employee')
       .then(response => response.json())
